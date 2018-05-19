@@ -1,0 +1,2 @@
+小程序是怎么回事
+简介：我们手机中有太多的App，占用了手机大量的内存。而许多App只用了一次就不用了，但是又舍不得删除。小程序就是解决这个问题而产生的， 小程序的特点无需下载App就可以实现App的功能。工具：微信1.点击微信中的【发现】2.点击【小程序】<img src="http://p9.pstatp.com/large/37c300016a5bf4022e66" img_width="460" img_height="821" alt="小程序是怎么回事" inline="0">3.如图：是丰巢、麦当劳的小程序<img src="http://p3.pstatp.com/large/32210004bebaed882f1a" img_width="463" img_height="785" alt="小程序是怎么回事" inline="0">4.这是麦当劳的小程序<br><img src="http://p1.pstatp.com/large/37c600016bbd20a03cbb" img_width="1080" img_height="1920" alt="小程序是怎么回事" inline="0">注：支付宝也开发了自己的小程序。<br>

@@ -1,0 +1,2 @@
+苹果iPhoneX的Animoji动话表情并不需要深感摄像头
+<strong>站长之家(ChinaZ.com) 11 月 15 日消息</strong>，自 iPhone X 发售之后，很多人迫不及待尝试了全新的面部识别技术，而其中的 Animoji （动话表情）也让许多人玩得不亦乐乎。Animoji 基于 iPhone X 上的一项最重要的新功能——Face ID。它能够实时扫描用户的脸部，从而实现脸部识别。Animoji 就是苹果在系统中预设了诸如猫、狗、外星人、机器人等一系列虚拟的卡通形象。通过面部识别，这些形象能够实时模仿你的表情。而现在知名科技博主 Marques Brownlee 在他的 iPhone X 评测中提出，Animoji 根本不需要 Face ID 也可以正常工作。即使你挡住所有的 TrueDepth 传感器，Animoji 也可以正常工作，它只会在常规的 RGB 相机被挡住才停止工作。他猜测这可能是因为 Face ID 的传感器被用于初始深度地图，而剩下的事情 RGB 摄像头就可以独立完成了。
