@@ -1,2 +1,0 @@
-我的第一个小爬虫：爬取腾讯新闻保存到 TXT
-<img src="http://p3.pstatp.com/large/46da0004735c61749cf7" img_width="938" img_height="397" alt="我的第一个小爬虫：爬取腾讯新闻保存到 TXT" inline="0">最近喜欢上了 Pyhon 这门语言，简洁、高效、简单，像我这种菜鸟都能学会的语言，我就不多说了，你懂的。“Python 在设计上坚持了清晰划一的风格，这使得 Python 成为一门易读、易维护，并且被大量用户所欢迎的、用途广泛的语言。”“Python 的设计哲学是 “优雅”、“明确”、“简单”。” ————摘自百度百科下面是学习三天写的一个小玩意，爬取腾讯新闻并保存到 TXT 文件，很简单的一个小爬虫。<strong>执行结果：</strong><img src="http://p3.pstatp.com/large/46d80004a4405f994784" img_width="936" img_height="597" alt="我的第一个小爬虫：爬取腾讯新闻保存到 TXT" inline="0">
